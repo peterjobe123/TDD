@@ -2,8 +2,6 @@ import unittest
 from src.main.GameNumber import GameNumber
 
 class GameNumberTest(unittest.TestCase):
-    def setUp(self):
-        pass
 
     def testDivideBy1(self):
         self.assertEqual(GameNumber(1).getFizzBuzz(),"1")
