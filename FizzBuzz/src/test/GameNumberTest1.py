@@ -1,5 +1,5 @@
 import unittest
-# from src.main.GameNumber1 import GameNumber1
+from FizzBuzz.src.main.GameNumber1 import GameNumber1
 
 class GameNumberTest1(unittest.TestCase):
     def testDivideBy1(self):
