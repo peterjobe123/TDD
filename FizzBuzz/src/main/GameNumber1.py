@@ -5,9 +5,9 @@ class GameNumber1:
     def getFuzzBuzz(self, number):
 
         if self.isDivided(number,15):
-            return "FuzzBuzz"
+            return "FizzBuzz"
         if self.isDivided(number,3):
-            return "Fuzz"
+            return "Fizz"
         if self.isDivided(number,5):
             return "Buzz"
         return str(number)

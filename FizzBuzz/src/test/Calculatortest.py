@@ -1,7 +1,7 @@
  # 没有失败的测试不能写代码
 # 只写恰好使测试通过的代码
 import unittest
-from FuzzBuzz.src.main.Calculator import Calculator
+from FizzBuzz.src.main.Calculator import Calculator
 class CalculatorTest(unittest.TestCase):
 
     def addTest(self):
