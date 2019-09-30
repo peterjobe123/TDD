@@ -1,0 +1,13 @@
+Alt + 上 方法跳转
+alt + 右 文件间跳转
+ctrl +  右 代码间跳转
+ctrl + tab 文件间跳转
+ctrl + C 复制当前行
+ctrl + X 剪切当前行
+shift + enter 另起一行
+ctrl + Y 删除此行
+ctrl + D 向下复制行
+ctrl + shift + f10运营编辑器配置
+ctrl + f4 关闭文件
+fn + shift + f2 发现错误
+ctrl + alt + M 提取方法
